@@ -1,7 +1,7 @@
 //POMOCY, JESTEM UWIĘZIONY W
 //PLIKU PK3
 
-[plk]
+[pl]
 
 STARTUP1 = "GamingMarine in Doom";
 STARTUP2 = "\"Nikt nie miał na to jaj ...AŻ DO TERAZ!\"";
