@@ -30,8 +30,8 @@ TXT_DEFAULTPICKUPMSG = "You get Tool.";
 D_DEVSTR = "Tryb bezużyteczny WŁĄCZONY.\n";
 PRESSKEY = "Naciśnij dowolny klawisz, aby kontynuować.";
 PRESSYN = "Naciśnij Y lub N, aby potwierdzić.";
-TXT_YES = "Yeah Boi";
-TXT_NO = "Naw Fam";
+TXT_YES = "Ta";
+TXT_NO = "Gdzie tam";
 SAFEMESSAGE = "Na pewno? Cofnięcie tej akcji może być niemożliwe.";
 DOSY = "(Czy chcesz wyjść? Naciśnij Y lub N, aby potwierdzić)";
 
