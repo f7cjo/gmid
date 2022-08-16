@@ -30,7 +30,7 @@ TXT_DEFAULTPICKUPMSG = "You get Tool.";
 D_DEVSTR = "Tryb bezużyteczny WŁĄCZONY.\n";
 PRESSKEY = "Naciśnij dowolny klawisz, aby kontynuować.";
 PRESSYN = "Naciśnij Y lub N, aby potwierdzić.";
-TXT_YES = "Ta";
+TXT_YES = "Jak nic";
 TXT_NO = "Gdzie tam";
 SAFEMESSAGE = "Na pewno? Cofnięcie tej akcji może być niemożliwe.";
 DOSY = "(Czy chcesz wyjść? Naciśnij Y lub N, aby potwierdzić)";
@@ -333,7 +333,7 @@ OB_MPDEFAULT = "%k eliminated %o.";
 OB_FRIENDLY1 = "%k killed a teammate of %p.";
 OB_FRIENDLY2 = "%k got in the way of someone else.";
 OB_FRIENDLY3 = "%k gave the other team a frag.";
-OB_FRIENDLY4 = "%k lost a friend of %p.";
+OB_FRIENDLY4 = "%k kosi kompana.";
 
 // Extra:
 
@@ -348,10 +348,10 @@ AM_ITEMS			= "Items Collected:";
 MNU_DELETESG		= "Are you absolutely sure you want to delete this savegame\n";
 
 MENUNEWG = "Kill Some Stuff";
-MENUOPTN = "Configure";
-MENULOAD = "Restore Progress";
+MENUOPTN = "Konfiguruj";
+MENULOAD = "Przywróć Postęp";
 MENULOADNETGAME = "You will need to quit this netgame in order to load any progress.";
-MENUSAVE = "Save Progress";
+MENUSAVE = "Zapisz postęp";
 MENUQUIT = "Surrender";
 MENUEPSD = "Choose Your Destiny";
 MENUSKIL = "How tough are you?";
@@ -385,7 +385,7 @@ CUBENOPE = "You don't have enough souls to use the \crSoul Cube\c-!";
 CUBEREADY = "The \crSoul Cube\c- is ready to be used!";
 
 //Options Menu
-GMIDMENU = "GamingMarine in Doom Options";
+GMIDMENU = "Opcje GamingMarine in Doom";
 HIDDENMENU = "Hidden ZDoom Options";
 KEYBINDMENU = "Necessary Keybinds Options";
 HIDDENNOTE1 = "These options were previously only available through console commands,";
@@ -425,7 +425,7 @@ WARMUPOPTION4 = "Scythe II, where you start with alerted enemies.";
 CUMMINSOON = "\cgMore mod-tailored options coming soon!";
 
 //This is only here so that those using older GZDoom versions don't have a broken options menu. I'm sorry, translators, but this is just how it has to be.
-OPTMNU_TITLE = "OPTIONS";
+OPTMNU_TITLE = "OPCJE";
 OPTMNU_CONTROLS	= "Customize Controls";
 OPTMNU_MOUSE = "Mouse options";
 OPTMNU_JOYSTICK	= "Joystick options";
